@@ -1,6 +1,6 @@
 # Feature Engineering 🤗
 
-Veremos es este repo 🍚 la forma de leer un plano .txt y las diferentes formas o procesos para limpiar los datos todo desde Python. 🐍
+Veremos en este repo 🍚 la forma de leer un archivo con formato .txt y las diferentes formas o procesos para limpiar los datos todo desde Python. 🐍
 
 Para conocer un poco más.
 

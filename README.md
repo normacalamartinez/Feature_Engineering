@@ -4,6 +4,8 @@ Veremos es este repo 🍚 la forma de leer un plano .txt y las diferentes formas
 
 Para conocer un poco más.
 
+<br>
+
 🧠 Punto 1: Pre-Procesamiento
 a. Leer el archivo `dialogos.csv` usando `pandas`
 b. Crear una nueva columna con el texto en minúscula, sin caracteres especiales ni números y sin palabras vacias

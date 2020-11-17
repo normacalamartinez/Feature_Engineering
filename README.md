@@ -20,6 +20,12 @@ b. ¿Cuándo es una mejor idea usar una bolsa de n-gramas en vez de una bolsa de
 
 ### Punto 4 
 a. ¿A qué pertenecen los dialogos del primer punto? 
+    
+.
+.
+.
+.
+.
 
 
 🦉 ¡Gracias por leerme! 🦉
